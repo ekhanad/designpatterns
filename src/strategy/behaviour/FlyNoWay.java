@@ -1,4 +1,4 @@
-package creational.strategy.behaviour;
+package strategy.behaviour;
 
 
 public class FlyNoWay implements FlyBehaviour
