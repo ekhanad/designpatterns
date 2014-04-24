@@ -7,6 +7,6 @@ public class SingletonTest
 	@Test
 	public void test()
 	{
-		System.out.println(SingletonUsingEnum.INSTANCE.toString());
+		System.out.println(SingletonUsingEnum.MANGO.toString());
 	}
 }

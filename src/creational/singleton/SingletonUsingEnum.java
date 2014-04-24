@@ -2,7 +2,7 @@ package creational.singleton;
 
 public enum SingletonUsingEnum
 {
-	INSTANCE;
+	MANGO;
 
 	public String toString()
 	{
