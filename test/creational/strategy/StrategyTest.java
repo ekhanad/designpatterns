@@ -2,10 +2,10 @@ package creational.strategy;
 
 import org.junit.Test;
 
-import strategy.behaviour.FlyNoWay;
-import strategy.behaviour.Squeak;
-import strategy.duck.Duck;
-import strategy.duck.MallardDuck;
+import behavioural.strategy.behaviour.FlyNoWay;
+import behavioural.strategy.behaviour.Squeak;
+import behavioural.strategy.duck.Duck;
+import behavioural.strategy.duck.MallardDuck;
 
 public class StrategyTest
 {

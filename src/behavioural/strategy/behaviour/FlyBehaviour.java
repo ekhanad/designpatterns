@@ -1,4 +1,4 @@
-package strategy.behaviour;
+package behavioural.strategy.behaviour;
 
 public interface FlyBehaviour
 {
