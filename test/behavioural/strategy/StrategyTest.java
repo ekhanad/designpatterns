@@ -1,4 +1,4 @@
-package creational.strategy;
+package behavioural.strategy;
 
 import org.junit.Test;
 
